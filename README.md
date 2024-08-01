@@ -33,7 +33,7 @@ I’m passionate about backend development and am always eager to learn from exp
 Feel free to connect with me through:
 
 - [LinkedIn](https://www.linkedin.com/in/rahul-gupta-b9a003259/) 
-- [Email](rahulguptaji1019@gmail.com) 
+- [Email](mailto:rahulguptaji1019@gmail.com) 
 
 ## Let's Connect
 
