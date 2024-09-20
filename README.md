@@ -25,8 +25,8 @@
 </p>
 
 ## Libraries and Frameworks
-<p>
-  <img src="https://svgshare.com/i/uq6.svg" alt="Express.js" width="40" height="40"/>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" width="40" height="40" style="filter: brightness(0) invert(1);"/>
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40" height="40"/>
