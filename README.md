@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="w-rahul" /> </p>
 
-- 🌱 I’m currently learning **AWS and Python**
 
 - 👨‍💻 All of my projects are available at [https://rxhxul.vercel.app/](https://rxhxul.vercel.app/)
 
