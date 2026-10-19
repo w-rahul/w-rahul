@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=w-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="w-rahul" /> </p>
 
 
-- 👨‍💻 All of my projects are available at [https://rxhxul.vercel.app/](https://rxhxul.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://rxhxul.dev/](https://rxhxul.dev/)
 
 - 📫 How to reach me **rahulguptaji1019@gmail.com**
 
