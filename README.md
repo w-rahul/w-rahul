@@ -1,44 +1,17 @@
+<img src="./banner.png" alt="Rahul. I go all in. At work, in game, on court." width="100%">
 
-<h1 align="center">Hi 👋, I'm Rahul</h1>
-<h3 align="center">I'm a full-stack developer with a strong focus on backend development and a good understanding of frontend technologies.</h3>
+I got into code through games. First it was tweaking settings and breaking mods, then I cared more about how things worked than about playing them.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=w-rahul&label=Profile%20views&color=0e75b6&style=flat" alt="w-rahul" /> </p>
+Now I build backend systems at Surepass: an LLM document platform, workflow engines, and billing on live traffic. I also design the parts people see.
 
+### 作品 &nbsp;things I made
 
-- 👨‍💻 All of my projects are available at [https://rxhxul.dev/](https://rxhxul.dev/)
+<a href="https://github.com/w-rahul/racetrap"><img src="./racetrap.png" alt="racetrap" width="560"></a>
 
-- 📫 How to reach me **rahulguptaji1019@gmail.com**
+**[racetrap](https://github.com/w-rahul/racetrap)** finds race conditions in web APIs by forcing the worst order of their SQL statements. Open source, on PyPI as `racetrap`.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-gupta-b9a003259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-gupta-b9a003259/" height="30" width="40" /></a>
-</p>
+**[rxhxul.dev](https://rxhxul.dev)** is my portfolio, designed and built by hand.
 
-## Tech stack
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+### 連絡 &nbsp;find me
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis" width="40" height="40"/>
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/> 
-</p>
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=w-rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=w-rahul&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=w-rahul&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+[rxhxul.dev](https://rxhxul.dev) &nbsp;/&nbsp; [x.com/rxhxul](https://x.com/rxhxul) &nbsp;/&nbsp; [linkedin](https://www.linkedin.com/in/rahul-gupta-b9a003259/) &nbsp;/&nbsp; [book a call](https://cal.com/rxhxul) &nbsp;/&nbsp; [rahulguptaji1019@gmail.com](mailto:rahulguptaji1019@gmail.com)
